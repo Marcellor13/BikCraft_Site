@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<widget xmlns     = "http://www.w3.org/ns/widgets"
+        xmlns:gap = "http://phonegap.com/ns/1.0"
+		id        = "com.hfmw.pub"
+		version   = "1.0.0">
+  <name>BikeCraft</name>
+  <description>Aplicativo Móvel do BikeCraft</description>
+  <author href="http://www.hf-mw.com"
+          email="BikeCraft.Impacta@yahoo.com.br">
+		BikeCraft
+  </author>
+  <icon src="img/icon114.jpg" height="114" width="114" />
+  <icon src="img/icon72.jpg" height="72" width="72" />
+  <icon src="img/icon57.jpg" height="57" width="57" />
+  <icon src="img/icon48.jpg" height="48" width="48" />
+  <icon src="img/icon36.jpg" height="36" width="36" />
+ </widget>
